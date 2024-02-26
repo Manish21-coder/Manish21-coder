@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on A Landing page of a **award-winning site's clone**
 
-- 🌱 I’m currently learning **advance js and frameworks**
+- 🌱 I’m currently learning **Angular,Typescript and SpringBoot framework**
 
 - 📫 How to reach me **manish271120@gmail.com**
 
