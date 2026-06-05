@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish21-coder" alt="manish21-coder" /></a> </p>
 
-- 🔭 I’m currently working on A Landing page of a **award-winning site's clone**
-
-- 🌱 I’m currently learning **Angular,Typescript and SpringBoot framework**
-
 - 📫 How to reach me **manish271120@gmail.com**
 
 - ⚡ Fun fact **=> I do stuck => leave => start =>**
